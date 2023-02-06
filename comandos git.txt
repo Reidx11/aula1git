@@ -1,0 +1,6 @@
+git config --global user.name "Reidx"
+git config --global .email "thiago.menezes11@etec.sp.gov.br"
+git init 
+git status
+git add
+git commit
